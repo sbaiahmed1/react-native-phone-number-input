@@ -11,7 +11,6 @@ declare const styles: {
         justifyContent: "center";
         flexDirection: "row";
         alignItems: "center";
-        pointerEvents:"none"
     };
     shadow: {
         shadowColor: string;
